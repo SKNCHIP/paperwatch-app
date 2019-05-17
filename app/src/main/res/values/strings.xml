@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EPaperWatchApp</string>
+    <string name="notification_count_text">Notification count:</string>
+    <string name="notification_listener_service_explanation">For this app to work correctly have to give it permission to read notifications.</string>
+    <string name="notification_listener_service">Permission needed</string>
+    <string name="yes">Ok</string>
+    <string name="no">Nope</string>
 </resources>
